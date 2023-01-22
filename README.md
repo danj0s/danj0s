@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Volodymyr Kapeliushnyi</h1>
+<h1 align="center">Hi 👋, I'm Danylo Kovalevskiy</h1>
 <h3 align="center">A passionate frontend developer from Ukraine with almost 1+ year of experience in frontend development</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kvalde](https://github.com/kvalde)
